@@ -2,6 +2,6 @@ package hello
 
 import "fmt"
 
-func print(num int){
+func Print(num int){
     fmt.Println(num);
 }
